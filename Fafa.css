@@ -1,0 +1,48 @@
+
+<style>
+
+/** background & fufu style **/
+ body {
+   background-color: #d23939;
+ }
+ 
+ 
+.fufu {
+background-color: red;
+    padding: 15px;
+       border-radius: 25px;
+         box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+         box-shadow: 2px 2px 4px #a8ce2c;
+}
+
+/** button style **/
+button {
+  background-color: #3e1389;
+   color: white;
+   padding: 10px 32px;
+    text-align: center;
+      text-decoration: none;
+      display: inline-block;
+        font-size: 16px;
+          border-radius: 22px;
+         box-shadow: 2px 2px 4px green;
+}
+
+/** font style **/
+h2 {
+     color: #94e3f3;
+        text-align: center;
+           font-family: serif;
+               font-size: 34px;
+}
+
+p {
+      color: #94e3f3;
+          text-align: center;
+             font-family: serif;
+                font-size: 10px;
+}
+a {
+  text-align: center;
+}
+</style>
